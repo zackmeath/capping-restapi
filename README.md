@@ -9,7 +9,7 @@
 
 To install dependencies:
 ```
-git clone <repourl>
+git clone https://github.com/zackmeath/capping-restapi
 npm install pg --save
 npm install -g express-generator@4
 cd node-postgres-capping
