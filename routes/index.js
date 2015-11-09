@@ -15,7 +15,7 @@ var connectionObject = {
 // var connectionString = require(path.join(__dirname, '../', '../', 'config'));
 
 // New student
-router.post('/api/student/', function(req, res) {
+router.post('/api/students/', function(req, res) {
     var date = req.body.intendedStartDate;
     var data = {
         firstName: req.body.firstName,
@@ -55,7 +55,7 @@ router.post('/api/student/', function(req, res) {
 });
 
 // Get a student
-router.get('/api/student/:student_id', function(req, res) {
+router.get('/api/students/:student_id', function(req, res) {
     pg.connect(connectionObject, function(err, client, done){
         var id = req.params.student_id;
         if(err){
@@ -63,7 +63,7 @@ router.get('/api/student/:student_id', function(req, res) {
             return res.status(500).json({success: false, data: err});
             done();
         }
-        client.query('SELECT * FROM Student WHERE StID = ($1)', [id]);
+        var query = client.query('SELECT * FROM Student WHERE StID = ($1)', [id]);
 
         var results = [];
 
@@ -81,7 +81,7 @@ router.get('/api/student/:student_id', function(req, res) {
 });
 
 // Update a student
-router.put('/api/student/:student_id', function(req, res) {
+router.put('/api/students/:student_id', function(req, res) {
     var id = req.params.student_id;
     var data = {
         currentCollege: req.body.currentCollege,
@@ -104,7 +104,7 @@ router.put('/api/student/:student_id', function(req, res) {
 });
 
 // Delete a student
-router.delete('/api/student/:student_id', function(req, res){
+router.delete('/api/students/:student_id', function(req, res){
     var id = req.params.student_id;
     pg.connect(connectionObject, function(err, client, done){
         if(err){
@@ -112,12 +112,12 @@ router.delete('/api/student/:student_id', function(req, res){
             return res.status(500).json({success: false, data: err});
             done();
         }
-        client.query('DELETE FROM Student WHERE StID = ($1)', [id]);
+        var query = client.query('DELETE FROM Student WHERE StID = ($1)', [id]);
 
         query.on('end', function(){
             client.end();
             done();
-            return res.json(results);
+            return res.json(id);
         });
 
     });
@@ -132,7 +132,7 @@ router.get('/api/courses/', function(req, res) {
             done();
         }
         var results = []
-        var query = client.query('SELECT * FROM Courses');
+        var query = client.query('SELECT * FROM Course');
         query.on('row', function(row){
             results.push(row);
         });
@@ -210,7 +210,7 @@ router.get('/api/requirements/majors/:major_id', function(req, res) {
 });
 
 // Get equivalencies for major and student
-router.get('/api/equivalencies/major/:major_id/student/:student_id', function(req, res) {
+router.get('/api/equivalencies/majors/:major_id/students/:student_id', function(req, res) {
     var mid = req.params.major_id;
     var stid = req.params.student_id;
     pg.connect(connectionObject, function(err, client, done){
@@ -220,9 +220,15 @@ router.get('/api/equivalencies/major/:major_id/student/:student_id', function(re
             done();
         }
         var results = []
-        var query = client.query('SELECT * FROM Requirement INNER JOIN MajorRequirement on (Requirement.RID = MajorRequirement.RID)' + 
-                ' ',
-                [mid, stid]);
+        var query = client.query('SELECT * FROM Requirement' + 
+                ' INNER JOIN MajorRequirement on (Requirement.RID = MajorRequirement.RID)' + 
+                ' INNER JOIN Major on (Major.MID = MajorRequirement.MID)' + 
+                ' INNER JOIN Equivalent on (Requirement.RID = Equivalent.RID)' + 
+                ' INNER JOIN Course on (Course.CID = Equivalent.CID)' + 
+                ' INNER JOIN CoursesTaken on (Course.CID = CoursesTaken.CID)' + 
+                ' INNER JOIN Student on (Student.StID = CoursesTaken.StID)' + 
+                ' WHERE Student.StID = ($1) AND Major.MID = ($2)', 
+                [stid, mid]);
         query.on('row', function(row){
             results.push(row);
         });
@@ -235,7 +241,7 @@ router.get('/api/equivalencies/major/:major_id/student/:student_id', function(re
 });
 
 // Add a course for a student
-router.post('/api/student/:student_id/courses/:course_id', function(req, res) {
+router.post('/api/students/:student_id/courses/:course_id', function(req, res) {
     var stid = req.params.student_id;
     var cid = req.params.course_id;
     pg.connect(connectionObject, function(err, client, done){
@@ -254,7 +260,7 @@ router.post('/api/student/:student_id/courses/:course_id', function(req, res) {
 });
 
 // Get all of the student's courses
-router.get('/api/student/:student_id/courses/', function(req, res) {
+router.get('/api/students/:student_id/courses/', function(req, res) {
     pg.connect(connectionObject, function(err, client, done){
         var id = req.params.student_id;
         if(err){
@@ -262,7 +268,7 @@ router.get('/api/student/:student_id/courses/', function(req, res) {
             return res.status(500).json({success: false, data: err});
             done();
         }
-        client.query('SELECT * FROM Course INNER JOIN CoursesTaken on (Course.CID = CoursesTaken.CID) INNER JOIN Student on (Student.StID = Course.StID) WHERE StID = ($1)', [id]);
+        var query = client.query('SELECT * FROM Course INNER JOIN CoursesTaken on (Course.CID = CoursesTaken.CID) INNER JOIN Student on (Student.StID = CoursesTaken.StID) WHERE Student.StID = ($1)', [id]);
 
         var results = [];
 

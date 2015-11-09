@@ -38,7 +38,7 @@ client.connect();
  * }
  */
 
-var query = client.query('SELECT * from Student');
+var query = client.query('SELECT * from Equivalent');
 query.on('row', function(row){
     console.log(row);
 }).on('end', function(output) {
