@@ -4,14 +4,15 @@
 
 - Node.js
 - Express.js
-- Supervisor (Express
+- Supervisor
 - pg (postgres for node)
 
-To install dependencies:
+To install dependencies and run server:
 ```
 git clone https://github.com/zackmeath/capping-restapi
 npm install pg --save
 npm install -g express-generator@4
-cd node-postgres-capping
+npm install -g supervisor
+cd capping-restapi
 npm start
 ```
