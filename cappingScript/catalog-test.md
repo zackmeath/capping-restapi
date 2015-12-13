@@ -1,0 +1,1234 @@
+# ACCOUNTING
+- ACCT 301 Intermediate Accounting I 3 cr
+- ACCT 302 Intermediate Accounting II 3 cr
+- ACCT 310 Cost Accounting 3 cr
+- ACCT 330 Financial Statement Analysis 3 cr
+- ACCT 401 Advanced Accounting 3 cr
+- ACCT 402 Auditing 3 cr
+- ACCT 403 Tax I 3 cr
+- ACCT 451 Government and Not-For-Profit Accounting 3 cr
+- ECON 103 Principles of Microeconomics 3 cr
+- ECON 104 Principles of Macroeconomics 3 cr
+- MATH 115 Calculus with Management Applications 4 cr
+- MATH 241 Calculus I 4 cr
+- MATH 130 Introductory Statistics I 3 cr
+- CMPT 300 Management Information Systems 3 cr
+- BUS 202 Global Business & Society 3 cr
+- BUS 302 Organizational Behavior 3 cr
+- BUS 320 Financial Management 3 cr
+- BUS 340 Marketing Principles 3 cr
+- BUS 380 Business Law I 3 cr
+- BUS 381 Business Law II 3 cr
+- CMPT 300 Management Information Systems 3 cr
+- ECON 103 Principles of Microeconomics 3 cr
+- ECON 104 Principles of Macroeconomics 3 cr
+- MATH 115 Calculus with Management Applications 4 cr
+- MATH 241 Calculus I 4 cr
+- MATH 130 Introductory Statistics I 3 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+- ACCT 203 Financial Accounting 3 cr
+- ACCT 204 Managerial Accounting 3 cr
+- BUS 100 Introduction to Business and Management 3 cr
+- ECON 150 Economics of Social Issues 3 cr
+- ECON 103 Principles of Microeconomics 3 cr
+
+# AFRICAN DIASPORA STUDIES MINOR
+- HIST 242 Introduction to African Diaspora Studies 3 cr
+- COM 325 Intercultural Communication
+- COM 435 Race and Ethnicity in Film
+- ENG 353 Ethnic American Literature
+- CSSP 153 The Civilization of Puerto Rico
+- FREN 101 Elementary French I
+- FREN 102 Elementary French II
+- FREN 105 Intermediate French I
+- FREN 106 Intermediate French II
+- FREN 315 French Literature of Africa and the Caribbean
+- SPAN 101 Elementary Spanish I
+- SPAN 102 Elementary Spanish II
+- SPAN 105 Intermediate Spanish I
+- SPAN 106 Intermediate Spanish II
+- SPAN 201 Spanish Composition and Conversation I
+- SPAN 202 Spanish Composition and Conversation II
+- SPAN 281 Spanish Conversation and Culture I
+- SPAN 282 Spanish Conversation and Culture II
+- SPAN 305 Advanced Intensive Spanish I
+- SPAN 306 Advanced Intensive Spanish II
+- SPAN 433 Literature of the Hispanic Caribbean
+- HIST 273 Latin America I
+- HIST 274 Latin America II
+- HIST 375 History of Race in Latin America
+- HIST 234 African American History
+- HIST 280 Africa Since 1800
+- HIST 340 Race & Nationality in American Life
+- POSC/HIST 216 Black Political and Social Thought
+- POSC 351 African Politics
+- REST 209 World Religions
+- HIST 294 Introduction to African Diaspora Studies
+
+# AMERICAN STUDIES
+- ART 280 American Art 3 cr
+- MUS 343 Music in America 3 cr
+- ENG 210 American Literature I 3 cr
+- ENG 211 American Literature II 3 cr
+- HIST 101 Themes in Modern History 3 cr
+- HIST 226 American History I 3 cr
+- HIST 227 American History II 3 cr
+- PHIL 240 American Pragmatism 3 cr
+- PHIL 342 American Social Thought 3 cr
+- POSC 110 American National Government
+- POSC 210 US Constitutional Law: National Powers
+- POSC 211 American State & Local Politics
+- POSC 212 Political Parties and Pressure Groups
+- POSC 312 History of American Presidency
+- POSC 205 Peace and World Order Studies
+- POSC 321 Contemporary Political Theory
+- POSC 251 Comparative Political Systems: Great Britain and Western Europe
+- POSC 252 Comparative Political Systems: CIS and Eastern Europe
+- POSC 113 International Relations
+- POSC 350 Latin American Politics
+- POSC 236 Politics of Developing Areas
+- POSC 355 Comparative Political Systems: Middle East
+- POSC 290 International Law and Organization
+- CMPT 103 Technology for the 21st Century 3 cr
+- REST 201 Religion in America 3 cr
+- POSC 477 Capping: Law & Morality 3 cr
+- HIST 477 Capping Course 3 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+- ENG 211 American Literature II 3 cr
+- HIST 226 American History I 3 cr
+- HIST 227 American History II 3 cr
+
+# APPLIED MATHEMATICS
+- MATH 241 Calculus I 4 cr
+- MATH 242 Calculus II 4 cr
+- MATH 343 Calculus III 4 cr
+- MATH 210 Linear Algebra 3 cr
+- MATH 310 Introduction to Mathematical Reasoning 3 cr
+- MATH 321 Differential Equations 3 cr
+- MATH 330 Probability and Statistics 3 cr
+- MATH 420 Mathematical Analysis I 3 cr
+- MATH 422 Applied Mathematics 3 cr
+- MATH 477 Math Capping Course 3 cr
+- CMPT 120 Introduction to Programming 4 cr
+- CHEM 131 General Chemistry I: Introduction to Organic Chemistry 4 cr
+- CHEM 132 General Chemistry II: Introduction to Physical Chemistry 4 cr
+- CHEM 361 Thermodynamics & Kinetics 3 cr
+- CHEM 362 Quantum and Statistical Mechanics 3 cr
+- BIOL 130 General Biology I 4 cr
+- BIOL 131 General Biology II 4 cr
+- CHEM 131 General Chemistry I: Introduction to Organic Chemistry 4 cr
+- CHEM 132 General Chemistry II: Introduction to Physical Chemistry 4 cr
+- CMPT 220 Software Development I 4 cr
+- CMPT 435 Algorithm Analysis & Design 4 cr
+- CMPT 404 Artificial Intelligence 3 cr
+- CMPT 446 Computer Graphics 4 cr
+- ECON 103 Principles of Microeconomics 3 cr
+- ECON 104 Principles of Macroeconomics 3 cr
+- ACCT 203 Financial Accounting 3 cr
+- BUS 320 Financial Management 3 cr
+- MATH 331 Applied Statistics 3 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+
+# ART AND DIGITAL MEDIA
+- ART 101 Fundamentals of Art and Design I 3 cr
+- ART 110 Basic Drawing 3 cr
+- ART 160 History of Western Art I 3 cr
+- ART 180 History of Western Art II 3 cr
+- CMPT 103 Technology for the 21st Century 3 cr
+- ART 477 Capping Course 3 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+- ART 160 History of Western Art I 3 cr
+- ART 180 History of Western Art II 3 cr
+- ART 366 History of 20th Century Art 3 cr
+- ART 350 Contemporary Art 3 cr
+- ART 478 Senior Thesis: Portfolio 3 cr
+- ART 477 Capping Course 3 cr
+- CMPT 103 Technology for the 21st Century 3 cr
+- ART 110 Basic Drawing 3 cr
+- ART 101 Fundamentals of Art & Design 3 cr
+- ART 201 3D Design 3 cr
+- ART 231 Introduction to Digital Media 3 cr
+- ART 235 Digital Animation I 3 cr
+- ART 320 Digital Photography I 3 cr
+- ART 211 Digital Layout & Design 3 cr
+- ART 323 Designing for the Web 3 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+- ART 160 History of Western Art I 3 cr
+- ART 180 History of Western Art II 3 cr
+- ART 477 Capping: Art and Art Criticism 3 cr
+- ART 478 Senior Thesis 3 cr
+- ART 101 Fundamentals of Art and Design I 3 cr
+- ART 110 Basic Drawing 3 cr
+- ART 201 3D Design 3 cr
+- ART 231 Intro to Digital Media 3 cr
+- ART 111 Basic Painting 3 cr
+- ART 105 Basic Sculpture 3 cr
+- ART 203 Draw II: Media and Techniques 3 cr
+- ART 207 Basic Printmaking 3 cr
+- ART 145 Basic Photography 3 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+- ART 101 Fundamentals of Art and Design I
+
+# ATHLETIC TRAINING
+- ATHT 104 Introduction to Athletic Training 3 cr
+- ATHT 205 Basic Concepts in Athletic Training + Lab 3 cr
+- ATHT 304 Therapeutic Modalities + Lab 3 cr
+- ATHT 305 Therapeutic Interventions 3 cr
+- ATHT 306 Therapeutic Exercise + Lab 3 cr
+- ATHT 307 Principles of Strength Training and Conditioning 3 cr
+- ATHT 310 Lower Body/Extremity Assess.
+- ATHT 311 Upper Body/Extremity Assess.
+- ATHT 330 Advanced Concepts in Athletic Training 3 cr
+- ATHT 400 Athletic Training Administration 3 cr
+- ATHT 395, 396, 397, 398, 497, 498 Clinical Practicum I-VI 6 cr
+- ATHT 477 Professional and Ethical Issues in Athletic Training 3 cr
+- BIOL 130 General Biology I 4 cr
+- BIOL 131 General Biology II 4 cr
+- BIOL 201 Human Anatomy & Physiology I 4 cr
+- BIOL 202 Human Anatomy & Physiology II 4 cr
+- CHEM 131 General Chemistry I & Lab 4 cr
+- CHEM 132 General Chemistry II & Lab 4 cr
+- CMPT 103 Technology for the 21st Century 3 cr
+- HLTH 201 Human Nutrition 3 cr
+- HLTH 202 First Aid and CPR 3 cr
+- HLTH 211/PSYC 211 Sport and Exercise Psychology 3 cr
+- HLTH 300 Kinesiology 3 cr
+- HLTH 301 Exercise Physiology 3 cr
+- MATH 130 Intro to Statistics I 3 cr
+- PSYC 101 Intro to Psychology 3 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+
+# BIOLOGY
+- BIOL 130 General Biology I 4 cr
+- BIOL 131 General Biology II 4 cr
+- BIOL 211 Plant Biology 4 cr
+- BIOL 320 Genetics 4 cr
+- BIOL 477 Biology Capping 3 cr
+- BIOL 320, 390, 391, and/or 392.
+- BIOL 201 and/or BIOL 202 for Biology or Related Fields Elective credit.
+- CHEM 131 General Chemistry I 4 cr
+- CHEM 132 General Chemistry II 4 cr
+- CHEM 215 Organic Chemistry I 4 cr
+- CHEM 216 Organic Chemistry II 4 cr
+- MATH 130 Introduction to Statistics I 3 cr
+- MATH 241 Calculus I 4 cr
+- CMPT 103 Technology for the 21st Century 3 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+- BIOL 130 General Biology I 4 cr
+- BIOL 131 General Biology II 4 cr
+- CHEM 131 General Chemistry I 4 cr
+- CHEM 132 General Chemistry II 4 cr
+- BIOL 201 Human Anatomy and Physiology I 4 cr
+- BIOL 202 Human Anatomy and Physiology II 4 cr
+- BIOL 203 Human Nutrition 3 cr
+- BIOL 211 Plant Biology 4 cr
+- BIOL 305 Animal Behavior 3 cr
+- BIOL 312 Microbiology 4 cr
+- BIOL 315 Immunology 3 cr
+- BIOL 320 Genetics 4 cr
+- BIOL 321 Evolution 3 cr
+- BIOL 325 Histology 4 cr
+- BIOL 340 Comparative Anatomy 4 cr
+- BIOL 360 Ecology: Principles & Practice 3 cr
+- BIOL 390 Special Topics in Biology I 1 cr
+- BIOL 391 Special Topics in Biology II 2 cr
+- BIOL 392 Special Topics in Biology III 3 cr
+- BIOL 420 Invertebrate Zoology 4 cr
+- BIOL 421 Parasitology 4 cr
+- BIOL 430 Developmental Biology 4 cr
+- BIOL 435 Plant Physiology 4 cr
+- BIOL 440 Vertebrate Physiology 4 cr
+- BIOL 450 Biotechnology 4 cr
+- BIOL 493 Molecular Biology 4 cr
+
+# BIOLOGY EDUCATION
+- BIOL 130 General Biology I 4 cr
+- BIOL 131 General Biology II 4 cr
+- BIOL 211 Plant Biology 4 cr
+- BIOL 320 Genetics 4 cr
+- BIOL 321 Evolution 3 cr
+- BIOL 477 Biology Capping 3 cr
+- CHEM 131 General Chemistry I 4 cr
+- CHEM 132 General Chemistry II 4 cr
+- CHEM 201 Intro to Organic Chemistry 3 cr
+- CHEM 202 Intro to Organic Chemistry Lab 1 cr
+- MATH 130 Introduction to Statistics 3 cr
+- MATH 241 Calculus I 4 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+- PSYC 101 Intro to Psychology 3 cr
+- PSYC 207 Exceptional Child 3 cr
+- PSYC 318 Psychology of the Adolescent 3 cr
+- EDUC 101 Foundation of Education 3 cr
+- EDUC 150 Learning Through Technology 3 cr
+- EDUC 354 Teaching of Language Arts 3 cr
+- EDUC 355 Teaching Language Arts/Content Areas 3 cr
+- EDUC 410 Participation/Observation 1 cr
+- EDUC 422 Methods of Teaching Science 3 cr
+- EDUC 464 Student Teaching 12 cr
+
+# BIOMEDICAL SCIENCES
+- BIOL 130-131 General Biology I-II 8 cr
+- BIOL 201 Human Anatomy & Physiology I
+- BIOL 202 Human Anatomy & Physiology II
+- BIOL 320 Genetics 4 cr
+- BIOL 477 Biology Capping 3 cr
+- HLTH 110 Introduction to the Health Professions 1 cr
+- BIOL 496 Biomedical Sciences Internship OR BIOL 480-483 Research 3 cr
+- CHEM 131 General Chemistry I 4 cr
+- CHEM 132 General Chemistry II 4 cr
+- CHEM 211 Organic Chemistry I 3 cr
+- CHEM 212 Organic Chemistry II 3 cr
+- CHEM 215 Organic Chemistry Lab I 1 cr
+- CHEM 216 Organic Chemistry Lab II 1 cr
+- PHYS 213 General Physics Lab I 1 cr
+- PHYS 214 General Physics Lab II 1 cr
+- PHYS 201 College Physics I 3 cr
+- PHYS 202 College Physics II 3 cr
+- CMPT 103 Technology for the 21st Century 3 cr
+- MATH 130 Introduction to Statistics I 3 cr
+- MATH 241 Calculus I 4 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+
+# BUSINESS ADMINISTRATION
+- ACCT 203 Financial Accounting 3 cr
+- ACCT 204 Managerial Accounting 3 cr
+- ECON 103 Principles of Microeconomics 3 cr
+- ECON 104 Principles of Macroeconomics 3 cr
+- CMPT 300 Management Information Systems 3 cr
+- MATH 115 Calculus with Management Applications 4 cr
+- MATH 241 Calculus I 4 cr
+- MATH 130 Introductory Statistics I 3 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+
+# CATHOLIC STUDIES MINOR
+- HIST 248 (Dual listed as CAST 200) Catholic Studies I: Medieval Europe 3 cr
+- HIST 255 (Dual listed as CAST 201) Catholic Studies II: The Catholic Church 3 cr
+- REST 243 (Dual listed as CAST 202) Catholic Thought and Spirituality 3 cr
+- ART 380 Renaissance Art
+- ENG 214 Religion in Film and Literature
+- ENG 266 The Italian-American Experience
+- ENG 330 Medieval Literature
+- ENG 324 Chaucer
+- PHIL 223 Medieval Philosophy
+- PHIL 231 Philosophy of Religion
+- REST 208 The Bible
+- REST 203 Principles of Christianity
+- REST 204 Principles of Judaism
+- REST 431 Spirituality and Religious Development
+- HIST 217 (Dual listed as POSC 217) Catholics in the United States
+- HIST 266 (Dual listed as POSC 266) The Italian-American Experience
+- HIST 286 The Irish Experience in America
+
+# CHEMISTRY
+- CHEM 131 General Chemistry I: Introduction to Inorganic Chemistry
+- CHEM 132 General Chemistry II: Introduction to Physical Chemistry
+- CHEM 211 Organic Chemistry I
+- CHEM 212 Organic Chemistry II
+- CHEM 215 Organic Chemistry I Lab
+- CHEM 216 Organic Chemistry II Lab
+- CHEM 355 Analytical Chemistry
+- CHEM 361 Physical Chemistry: Thermodynamics & Kinetics
+- CHEM 362 Physical Chemistry: Quantum & Statistical Mechanics
+- CHEM 365 Experimental Physical Chemistry: Thermodynamics & Kinetics
+- CHEM 366 Experimental Physical Chemistry: Quantum & Statistical Mechanics
+- CHEM 376 Research Methods in Chemistry I
+- CHEM 475 Research Methods in Chemistry II
+- CHEM 476 Research Methods in Chemistry III
+- SCI 477 Science, Medicine and Ethics
+- CHEM 420 Biochemistry I
+- CHEM 421 Biochemistry II
+- CHEM 423 Biochemistry I Lab
+- CHEM 424 Biochemistry II Lab
+- CHEM 430 Advanced Inorganic Chemistry
+- CHEM 431 Advanced Inorganic Chemistry Lab
+- CHEM 440 Advanced Organic Chemistry
+- CHEM 460 Polymer Chemistry
+- MATH 210 Linear Algebra 3 cr
+- MATH 241 Calculus I 4 cr
+- MATH 242 Calculus II 4 cr
+- PHYS 211 General Physics I** 3 cr
+- PHYS 212 General Physics II 3 cr
+- PHYS 213 Physics Lab I*** 1 cr
+- PHYS 214 Physics Lab II 1 cr
+- CMPT 120 Introduction to Programming 4 cr
+- CMPT 103 Technology for the 21st Century
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+- MATH 321 Differential Equations
+
+# COGNITIVE SCIENCE MINOR
+- PHIL 101 Philosophical Prespectives 3 cr
+- PSYC 101 Introduction to Psychology 3 cr
+- ANTH 101 Introduction to Physical Anthropology
+- BIOL 232 Sex, Evolution, and Behavior
+- BIOL 305 Animal Behavior
+- CMPT 120 Introduction to Programming
+- CMPT 404 Artificial Intelligence
+- CMPT 440 Formal Languages and Computability
+- ENG 201 Introduction to Linguistics
+- ENG 301 History of the English Language
+- ENG 302 World Englishes
+- MATH 130 Introductory Statistics I
+- MATH 131 Introductory Statistics II
+- MATH 310 Introduction to Mathematical Reasoning
+- MATH 412 Computational Linear Algebra
+- PHIL 203 Introduction to Logic
+- PHIL 310 Symbolic Logic
+- PHIL 324 Contemporary Analytic Philosophy
+- PHIL 325 Contemporary Continental Philosophy
+- PHIL 335 Metaphysics
+- PHIL 336 Epistemology
+- PHIL 345 Philosophy of Mind
+- PSYC 206 Psycho-Biological Sex Differences
+- PSYC 301 Biopsychology and Lab
+- PSYC 302 Neurobiology of Learning and Memory and Lab
+- PSYC 303 Developmental Neuropsychology and Lab
+- PSYC 305 Neurobiology and Neuropsychology of Learning Disabilities and Lab
+- PSYC 306 Cognitive Neuroscience and Neuropsychology and Lab
+- PSYC 342 Cognitive Psychology
+
+# COMMUNICATION
+- COM 102 Introduction to Communication 3 cr
+- COM 103 Digital Toolbox 3 cr
+- COM 101 Public Presentations 3 cr
+- COM 200 Communication Research: Strategies and Methods 3 cr
+- ANTH 101 Intro to Anthro I
+- ANTH 102 Intro to Anthro II
+- ANTH 231 American Culture II
+- ANTH 232 Religion and Culture
+- ANTH 233 The American Indian
+- COM 400 Gender, Culture, and Communication
+- COM 488 Comparative Communication Systems
+- CRJU 314 U.S. Urban Cultures
+- CRJU 440 Senior Seminar I: Cross Cultural Criminal Justice Systems
+- ENG 370 The Jewish Literary Genius in the Modern Period
+- ENG 373 The Language of the Holocaust
+- HIST 229 Emergence of Women in Western Civilization
+- HIST 234 The Black American Experience
+- HIST 240 Race and Nationality in American Life
+- HIST 251 Women in Asia
+- HIST 263 Eastern Europe and Russia from 1928 to the Present
+- HIST 269 Asia II
+- HIST 274 History of Latin America Since 1830
+- HIST 285 The History and Political Culture of Ireland
+- HIST 349 Modern Germany
+- HIST 355 Comparative Political Systems: Middle East
+- HIST 375 History of Race Relations in Latin America
+- INTD 209 Perspectives on the Humanities (adult students only)
+- POSC 213 Politics of Human Rights
+- POSC 321 Contemporary Political Theory
+- POSC 251 Comparative Political Systems I: Great Britain and Western Europe
+- POSC 252 Comparative Political Systems: CIS and Eastern Europe
+- POSC 271 Nationalism and Communism in China and Taiwan
+- POSC 113 International Relations
+- POSC 280 International Communication and Negotiation
+- POSC 285 The History and Political Culture of Ireland
+- POSC 325 Political Economy: East Asia
+- POSC 350 Latin American Politics
+- POSC 236 Politics of Developing Areas
+- POSC 355 Comparative Political Systems: Middle East
+- POSC 290 International Law and Organizations
+- REST 209 World Religions
+- REST 225 Global Liberation Theology
+- SOC 220 Sociology of Religion
+- SOCW 395 Social Work with Diverse Populations
+
+# COMPUTER SCIENCE
+- CMPT 120 Introduction to Programming 4 cr
+- CMPT 220 Software Development I 4 cr
+- CMPT 221 Software Development II 4 cr
+- CMPT 230 Software Systems and Analysis 4 cr
+- CMPT 306 Data Communications and Networks 4 cr
+- CMPT 308 Database Management 4 cr
+- CMPT 307 Internetworking 4 cr
+- CMPT 330 System Design 4 cr
+- CMPT 422 Computer Organization and Architecture 4 cr
+- CMPT 435 Algorithm Analysis and Design 3 cr
+- CMPT 475 CS Project I 3 cr
+- CMPT 476 CS Project II 1 cr
+- BUS 100 Introduction to Business and Management 3 cr
+- MATH 130 Introduction to Statistics 3 cr
+- MATH 241 Calculus I 4 cr
+- MATH 205 Discrete Mathematics 4 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+
+# B.S./M.S. PROGRAM IN COMPUTER SCIENCE/SOFTWARE DEVELOPMENT
+- CMPT 120 Introduction to Programming 4 cr
+- CMPT 220 Software Development I 4 cr
+- CMPT 221 Software Development II 4 cr
+- CMPT 230 Software Systems and Analysis 4 cr
+- CMPT 306 Data Communications and Networks 4 cr
+- CMPT 307 Internetworking 4 cr
+- CMPT 308 Database Management 4 cr
+- CMPT 330 System Design 4 cr
+- CMPT 422 Computer Organization and Architecture 4 cr
+- CMPT 435 Algorithm Analysis and Design 3 cr
+- BUS 100 Introduction to Business and Management 3 cr
+- MATH 130 Introduction to Statistics 3 cr
+- MATH 241 Calculus I 4 cr
+- MATH 250 Discrete Mathematics 4 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+- MSCS 510 Software Design and Development 4 cr
+- MSCS 542 Database Management Systems 4 cr
+- MSCS 630 Security Protocols 4 cr
+- MSCS 710 Project 4 cr
+- MSCS 679 Parallel Processing 4 cr
+- MSCS 621 Cloud Computing 1 4 cr
+- MSCS 565 Game Development I 4 cr
+- MSCS 722 Enterprise Mobile Dev 4 cr
+
+# CRIMINAL JUSTICE
+- CRJU 101 Introduction to Criminal Justice
+- CRJU 202 Criminology
+- CRJU 221/POSC 221 Law and Society
+- CRJU 230 Policing in America
+- CRJU 235 Corrections
+- CRJU 250 Introduction to U.S. Courts
+- CRJU 301 Criminal Justice Organization and Administration
+- CRJU 303 Criminal Law
+- CRJU 304 Criminal Procedure
+- CRJU 305 Juvenile Justice System
+- CRJU 370 Theories of Punishment
+- CRJU 374 Criminal Justice Research Methods
+- CRJU 440 Cross Cultural Criminal Justice Systems
+- CRJU 477 Senior Seminar: Capping Course
+- CRJU 496 Criminal Justice Internship I
+- CRJU 497 Criminal Justice Internship II
+- CRJU 206 Criminal and Scientific Investigation
+- CRJU 223 Juvenile Deliquency
+- CRJU 242 Drug and Alcohol Use and Abuse
+- CRJU 314 Race and Crime
+- CRJU 340 The Federal Criminal Justice System
+- CRJU 348/PSYC 348 Psychological Perspectives on Criminal Behavior
+- CRJU 350 Organized Crime
+- CRJU 375 Program Planning and Evaluation
+- CRJU 377 Terrorism 6 cr
+- CRJU 105 Criminal Justice Information Literacy 1 cr
+- MATH 130 Introductory Statistics I** 3 cr
+- POSC 110 American National Government* 3 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+- CRJU 202 Criminology
+- CRJU 304 Criminal Procedure II: Constitutional Law
+- CRJU 370 Theories of Punishment
+- CRJU 305 Juvenile Justice System
+- CRJU 230 Policing in America
+- CRJU 235 Corrections
+- CRJU 250 Introduction to U.S. Courts
+
+# ECONOMICS
+- CMPT 103 Technology for the 21st Century 3 cr
+- MATH 130 Introductory Statistics I 3 cr
+- MATH 115 Calculus with Management Applications 4 cr
+- MATH 241 Calculus I 4 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+- ECON 103 Principles of Microeconomics 3 cr
+- ECON 104 Principles of Macroeconomics 3 cr
+- MATH 130 Introductory Statistics I 3 cr
+- MATH 115 Calculus with Management Applications
+- MATH 241 Calculus I 4 cr
+- ECON 303 Intermediate Microeconomic Theory 3 cr
+- ECON 304 Intermediate Macroeconomic Theory 3 cr
+- ECON 305 Environmental Economics
+- ECON 310 Labor Economics
+- ECON 315 Money and Banking
+- ECON 320 Quantitative Methods in Economics and Business
+- ECON 321 Public Finance
+- ECON 340 Economic Development: Towards Global Equality
+- ECON 422 Financial Markets and Industries
+- ECON 432 International Financial Policies and Issues
+- ECON 442 International Economics
+- ECON 443 History of Economic Thought
+
+# EDUCATION
+- PSYC 101 Introduction to Psychology 3 cr
+- PSYC 207 The Exceptional Child 3 cr
+- PSYC 208 Educational Psychology 3 cr
+- PSYC 317 Child Development 3 cr
+- PSYC 362 Measurement and Evaluation 3 cr
+- PSYC 372 Psychoeducational Assessment of Educational Disabilities 3 cr
+- PSYC 350 Psychological Research Methodology and Lab I 4 cr
+- PSYC 478 Capping Course/Psychological Systems 3 cr
+- PSYC 479 Educational Psychology Senior Seminar 1 cr
+- EDUC 091 Fieldwork in Education 0 cr
+- EDUC 101 Foundations of Education 3 cr
+- EDUC 150 Learning Through Technology 3 cr
+- EDUC 241 Math for Elementary Teaching: Content
+- EDUC 242 Science for Elementary Teaching: Content
+- EDUC 350 The Teaching of Language Arts: Processes
+- EDUC 351 Literacy Learning & the Arts in the Social Studies Curriculum 3 cr
+- EDUC 352 Assessment and Remediation of Reading and Writing 3 cr
+- EDUC 373 Principles of Teaching Students with Special Needs 3 cr
+- EDUC 374 Curriculum Strategies for Students with Special Needs 3 cr
+- EDUC 376 Behavior Management Theories and Strategies for
+- EDUC 462 Student Teaching 12 cr
+- SOC 336 Social Inequality 3 cr
+- MATH 130 Introductory Statistics I 3 cr
+- HIST 218 History and Culture of the Mid-Hudson Valley
+- HIST 220 New York: The Empire State
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+
+# ENGLISH
+- ENG 270 Classics of Western Literature 3 cr
+- ENG 150 Introduction to Theatre 3 cr
+- ENG 180 Literary Study 3 cr
+- ENG 185 Writing as a Discipline 3 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+- ENG 222 Introduction to Professional Writing 3 cr
+- ENG 227 Acting I
+- ENG 241 Acting II
+- ENG 349 Acting III
+- ENG 310 Playwriting Workshop
+- ENG 350 Directing
+- ENG 451 Theatre Workshop
+- ENG 325 Shakespeare
+- ENG 320 English Drama I
+- ENG 321 English Drama II
+- ENG 340 American Drama I
+- ENG 341 American Drama II
+- ENG 355 History of the Modern Theatre
+- ENG 363 Modern Drama
+- FYS 101 First Year Seminar 4 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+- ENG 230 Workshop in Editing and Revision
+- ENG 280 Introduction to Creative Writing 3 cr
+- ENG 218 Grammar, Style and Editing 3 cr
+- ENG 311 Poetry Workshop
+- ENG 380 Nonfiction Workshop
+- ENG 382 Fiction Workshop
+- ENG 392 Special Topics (in Writing)
+- ENG 490 Independent Writing Project 12 cr
+
+# ENVIRONMENTAL SCIENCE & POLICY
+- ENSC 101 Intro to Environmental Issues 3 cr
+- ENSC 202 Environmental Politics and Policy 3 cr
+- ENSC 230 Intro to GIS 3 cr
+- ENSC 210 Intro to Geology 3 cr
+- ENSC 212 Intro to Geology Lab 1 cr
+- ENSC 415 Env Sci & Policy Seminar 1 cr
+- ENSC 360 Ecology: Principles & Practice 4 cr
+- ENSC 380 Principles of Environmental Assessment 3 cr
+- ENSC 440 Research I AND 3 cr
+- ENSC 441 Research II OR 3 cr
+- ENSC 398 Internship AND 3 cr
+- ENSC 399 Internship 3 cr
+- ENSC 477 Environmental Science and Human Values 3 cr
+- BIOL 130 General Biology I 4 cr
+- BIOL 131 General Biology II 4 cr
+- BIOL 211 Plant Biology 4 cr
+- CHEM 131 General Chemistry I 4 cr
+- CHEM 132 General Chemistry II 4 cr
+- CHEM 201 Intro to Organic Chemistry† 3 cr
+- CHEM 202 Intro to Organic Chemistry Lab† 1 cr
+- MATH 130 Intro to Statistics I 3 cr
+- MATH 131 Intro to Statistics II 3 cr
+- MATH 115 Calculus with Management Applications†† 3 cr
+- POSC 110 American National Government 3 cr
+- CMPT 103 Technology for the 21st Century 3 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+
+# FASHION DESIGN
+- FASH 100 Fashion in Culture & Commerce 3 cr
+- FASH 130 Fashion Figure Drawing 1 cr
+- FASH 140 Fashion Design I: Drawing & Color 3 cr
+- FASH 126 Creative Process 3 cr
+- FASH 200 Textiles: Studies & Applications 3 cr
+- FASH 210 Design Studio Techniques 3 cr
+- FASH 230 Apparel Development I 3 cr
+- FASH 231 Apparel Development II 3 cr
+- FASH 235 Fashion Trend Forecasting & Analysis 3 cr
+- FASH 240 Fashion Design II: Presentation 3 cr
+- FASH 245 Digital Fashion Design I 3 cr
+- FASH 268 Digital Fashion Design II 3 cr
+- FASH 300 Product Development 3 cr
+- FASH 310 Apparel Development III 3 cr
+- FASH 345 Fashion Design III: Design Workshop 3 cr
+- FASH 381 History of Modern Fashion 3 cr
+- FASH 400 Employment Seminar 1 cr
+- FASH 478 Fashion Design Capping I: Portfolio Development 3 cr
+- FASH 479 Fashion Design Capping II: Collections I 3 cr
+- FASH 480 Fashion Design Capping III: Collection II 3 cr
+- ART 160 History of Western Art I 3 cr
+- ART 180 History of Western Art II* 3 cr
+- ART 281 History of Costume 3 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+
+# FASHION MERCHANDISING
+- FASH 100 Fashion in Culture & Commerce 3 cr
+- FASH 200 Textiles 3 cr
+- FASH 235 Trend Forecasting & Analysis 3 cr
+- FASH 245 Digital Fashion Design I 3 cr
+- FASH 265 Retailing Principles & Practices 3 cr
+- FASH 300 Product Development 3 cr
+- FASH 304 Merchandise. Planning & Control 3 cr
+- FASH 355 Buying, Planning & Allocation 3 cr
+- FASH 381 History of Modern Fashion 3 cr
+- FASH 400 Employment Seminar 1 cr
+- FASH 455 Global Merchandising Strategies 3 cr
+- FASH 477 Merchandise Capping 3 cr
+- ART 281 History of Costume 3 cr
+- COM 102 Introduction to Communication 3 cr
+- COM 220 Introduction to Strategic Advertising 3 cr
+- BUS 320 Financial Management 3 cr
+- BUS 340 Principles of Marketing 3 cr
+- ACCT 203 Financial Accounting 3 cr
+- ACCT 204 Managerial Accounting 3 cr
+- ECON 103 Principles of Microeconomics 3 cr
+- ECON 104 Principles of Macroeconomics 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+
+# FRENCH
+- FREN 201 Workshop in Writing 3 cr
+- FREN 202 Workshop in Oral Expression* 3 cr
+- FREN 250 French Culture and Thought 3 cr
+- FREN 251 Contemporary France 3 cr
+- FREN 310 French Grammar and Composition I 3 cr
+- FREN 311 French Grammar and Composition II 3 cr
+- FREN 310 French Grammar and Composition I 3 cr
+- FREN 311 French Grammar and Composition II 3 cr
+- FREN 305 Studies in French Film and Literature 3 cr
+- FREN 315 French Literature of Africa and the Caribbean 3 cr
+- FREN 330 Modern Literary Perspective: the 20th and 21st Century 3 cr
+- FREN 345 Interdisciplinary Unit 3 cr
+- FREN 440 French for Current Affairs 3 cr
+- FREN 394 Internship in French**
+- FREN 477 Capping 3 cr
+- FREN 305 Studies in French Film and Literature 3 cr
+- FREN 315 French Literature of Africa and the Caribbean 3 cr
+- FREN 330 Modern Literary Perspective: the 20th and 21st Century 3 cr
+- FREN 345 Interdisciplinary Unit 3 cr
+- FREN 440 French for Current Affairs 3 cr
+- FREN 394 Internship in French** 3 cr
+- FREN 477 Capping 3 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+
+# GLOBAL STUDIES MINOR
+- GBST/POSC/CSCU 103 Introduction to Global Issues 3 cr
+- ANTH 102 Introduction to Cultural Anthropology
+- ANTH 232 Religion and Culture
+- ART 255 Pre-Columbian Art
+- ART 256 Chinese Art
+- BUS 202 Global Business and Society
+- BUS 430 International Trade Management (prerequisite: BUS 100 or ACCT 204)
+- BUS 442 International Marketing (prerequisite: BUS 340)
+- CMPT 305 Technology, Ethics and Society
+- COM 325 Intercultural Communication
+- COM 400 Gender, Culture and Communication
+- COM 488 Comparative Communication Systems
+- CRJU 350 Organized Crime
+- CRJU 377 Politics of Crime and Terrorism (prerequisite: CRJU 101 or POSC 101)
+- CRJU 440 Senior Seminar I: Cross Cultural Criminal Justice (prerequisites: CRJU 202 and 370)
+- ECON 150 Economics of Social Issues
+- ECON 305 Environmental Economics (prerequisite: ECON 103)
+- ECON 340 Economic Development: Towards Global Equality (prerequisite: ECON 103, 104, or 150)
+- ECON 432 International Financial Policies and Issues (prerequisites: ECON 103 and 104)
+- ECON 442 International Economics (prerequisites: ECON 103 and 104)
+- ENSC 101 Introduction to Environmental Issues
+- ENSC 202 Environmental Politics and Policy
+- ENG 201 Introduction to Linguistics
+- ENG 302 Structure of English/World Englishes
+- ENG 353 Ethnic American Literature
+- ENG 370 Modern Jewish Literature
+- ENG 373 Literature of the Holocaust
+- FASH 455 International Retailing (prerequisite: FASH 265)
+- HIST 206 Afghanistan and its Wars
+- HIST 242 Introduction to the African Diaspora
+- HIST 252 Modern Europe
+- HIST 255 Catholic Church in Modern Times
+- HIST 262 History of Russia: The Russian Revolution
+- HIST 263 Eastern Europe and Russia from 1928 to the Present
+- HIST 267 Women in Asia
+- HIST 269 Modern Asia
+- HIST 271 Modern China
+- HIST 274 Modern Latin America
+- HIST 280 Modern Africa
+- HIST 285 The History and Political Culture of Ireland
+- HIST 313 The Vietnam War (prerequisite: six credits in history)
+- HIST 318 Drug Trade in Asia (prerequisite: six credits in history)
+- HIST 320 American Diplomatic History (prerequisite: six credits in history)
+- HIST 349 Modern Germany: Between Dictatorship and Democracy
+- HIST 355 History and Politics of the Modern Middle East (prerequisite: six credits in history)
+- HIST 375 Race Relations in Latin American History (prerequisite: six credits in history)
+- MDIA 326 Race & Ethnicity in Film
+- MDIA 422 Topics in Global Cinema (topic must be pre-approved by GBST coordinator)
+- PHIL 212 Philosophy of Society
+- PHIL 301 Environmental Ethics
+- PHIL 325 Contemporary Continental Philosophy
+- PHIL 340 Marx and Marxism
+- POSC 111 Introduction to Comparative Politics
+- POSC 113 International Relations
+- POSC 202 Environmental Politics and Policy (prerequisites: POSC 110 and ENSC 101)
+- POSC 213 Politics of Human Rights (prerequisite: POSC 112 or 113)
+- POSC 236 Politics of Developing Areas (prerequisite: POSC 111)
+- POSC 251 European Politics (prerequisite: POSC 111 or 113)
+- POSC 285 The History and Political Culture of Ireland (Dual listed as HIST 325 (prerequisite: POSC 111)
+- POSC 290 International Law and Organization
+- POSC 271 Nationalism and Communism in China and Taiwan
+- POSC 280 Model United Nations (prerequisite: POSC 111 or 113)
+- POSC 321 Contemporary Political Theory
+- POSC 325 Political Economy: The Rise of the Asia-Pacific
+- POSC 350 Latin American Politics
+- POSC 351 African Politics
+- POSC 355 Comparative Politics of the Middle East
+- PSYC 330 Culture and Psychology (prerequisite: PSYC 101)
+- REST 209 World Religions
+- REST 219 Sociology of Religion
+- REST 230 Religion and Politics
+- REST 231 Social Ethics and Economics
+- REST 315 Global Liberation Theology
+- REST 320 Public Praxis I
+- SOC 219 Sociology of Religion
+
+# HISTORY
+- HIST 226 American History to 1877 3 cr
+- HIST 227 American History since 1877 3 cr
+- HIST 477 Capping Course 3 cr
+- CMPT 103 Technology for the 21st Century 3 cr
+- HIST 248 Medieval Europe
+- HIST 249 Early Modern Europe
+- HIST 252 Modern Europe
+- HIST 206 Afghanistan and its Wars
+- HIST 242 Introduction to African Diaspora Studies
+- HIST 267 Women In Asia
+- HIST 268 Traditional Asia
+- HIST 269 Modern Asia
+- HIST 270 Traditional China
+- HIST 271 Modern China
+- HIST 273 Colonial Latin America
+- HIST 274 Modern Latin America
+- HIST 280 Modern Africa
+- HIST 313 The Vietnam War
+- HIST 318 Drug Trade in Asia
+- HIST 355 History and Politics of the Modern Middle East
+- HIST 375 Race and Ethnicity in Latin America
+- HIST 413 FDR Research Seminar
+- HIST 497 Public History Internship
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+
+# HUDSON RIVER VALLEY REGIONAL STUDIES MINOR
+- HIST 218 History and Culture of the Hudson River Valley 3 cr
+- HONR 330 Hudson River Valley Studies: History 3 cr
+- ENSC 101 Introduction to Environmental Issues 3 cr
+- HONR 351 Science Technology, and Society:
+- ANTH 233 Native Americans
+- ART 290 Museum Studies
+- ENG 231 Literature of the Hudson River Valley
+- ENSC 315 Natural History of the Hudson Valley
+- HONR 331 Hudson River Valley Studies:
+- HIST 220 The Empire State: A History of New York
+- ECON 210 Innovation in the Hudson River Valley
+- POSC 202/ENSC 202 Environmental Politics & Policy
+- POSC 211 American State & Local Politics
+
+# INFORMATION TECHNOLOGY AND SYSTEMS
+- CMPT 120 Introduction to Programming 4 cr
+- CMPT 220 Software Development I 4 cr
+- CMPT 221 Software Development II 4 cr
+- CMPT 230 Software Systems and Analysis 4 cr
+- CMPT 306 Data Communications and Networks 4 cr
+- CMPT 308 Database Management 4 cr
+- CMPT 307 Internetworking 4 cr
+- CMPT 321 Architecture of Hardware and System Software 3 cr
+- CMPT 330 System Design 4 cr
+- CMPT 410 Systems Administration 4 cr
+- CMPT 420 Internet Security 4 cr
+- CMPT 430 Technology Entrepreneurship 3 cr
+- CMPT 477 ITS Project I 3 cr
+- CMPT 478 ITS Project II 1 cr
+- ITS Upper-level electives 6-8 cr
+- BUS 100 Introduction to Business and Management 3 cr
+- MATH 130 Introduction to Statistics 3 cr
+- MATH 205 Discrete Math I 4 cr
+- MATH 241 Calculus I 4 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+
+# ITALIAN
+- ITAL 201 Advanced Italian I 3 cr
+- ITAL 250 Italian Civilization 3 cr
+- ITAL 281 Italian for Conversation 3 cr
+- ITAL 282 Advanced Reading and Composition 3 cr
+- ITAL 477 Capping Course 3 cr
+- ITAL 201 Advanced Italian I 3 cr
+- ITAL 250 Italian Civilization 3 cr
+- ITAL 281 Italian for Conversation 3 cr
+- ITAL 282 Advanced Reading and Composition 3 cr
+- ITAL 477 Capping Course 3 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+- ITAL 250 Italian Civilization of Italy 3 cr
+- ITAL 281 Italian for Conversation 3 cr
+- ITAL 282 Advanced Reading and Composition 3 cr
+
+# JEWISH STUDIES MINOR
+- REST 201 Religion in America
+- REST 204 Judaism
+- REST 208 Judeo-Christian Scriptures
+- HIST 272 The Ancient East
+- HIST 349 Modern Germany: Bismarck to Hitler
+- ENG 370 Modern Jewish Literature
+- ENG 371 The Hebrew Bible as Literary Classic
+- ENG 373 Literature of the Holocaust
+- POSC 303 Politics of Prejudice
+
+# LATIN AMERICAN/CARIBBEAN STUDIES MINOR
+- HIST 273 History of Latin America to 1830
+- HIST 274 History of Latin America since 1830
+- POSC 350 Latin American Politics
+- SPAN 260 Cultures of Latin America
+- SPAN 154 Civilization of Hispanics in the United States
+- SPAN 270 Cultures of Hispanics in the U.S.
+- ANTH 233 Native Americans
+- ART 255 Pre-Columbian Art
+- BUS 202 Global Business and Society
+- BUS 430 International Trade Management (prerequisite BUS 100 or ACCT 204)
+- BUS 442 International Marketing (prerequisite BUS 340)
+- COM 325 Intercultural Communications
+- COM 488 Comparative Communications Systems
+- ECON 442 International Economics (prerequisite ECON 104 and 102)
+- HONR 302 Seminar in Art of Culture: contingent on appropriate course topic
+- MDIA 442 Topics in Global Cinema (Brazilian Cinema)
+- SPAN 152 The Civilization of Latin America
+- SPAN 153 The Civilization of Puerto Rico
+- SPAN 220 Latin American Literature in Translation
+- SPAN 315 The Experience of Hispanic Literature (in Spanish)
+- SPAN 335 Themes in Latin American Cinema (also fulfills requirements for Cinema Studies Minor)
+- SPAN 370 Latin American Women Writers (in Spanish)
+- SPAN 392, 393 Special Topics (focus on Latin America or the Caribbean)
+- SPAN 394, 395, 396 Internship in Spanish (focus on Latin American/Caribbean Diaspora)
+- SPAN 415 ICONS: Spanish Translation Techniques
+- SPAN 431 Spanish American Literature I
+- SPAN 432 Spanish American Literature II
+- SPAN 433 Literature of the Hispanic Caribbean (in Spanish)
+- SPAN 477 Capping (only when the focus is Latin American Literature)
+- SPAN 480 Seminar: Latin American Texts and the Disclosure of Continental History
+- FREN 315 French Africa and the Caribbean
+- HIST 375 Race and Ethnicity in Latin America
+- POSC 213 Politics of Human Rights
+- POSC 113 International Relations
+- POSC 236 Politics of Developing Areas
+- REST 219 Sociology of Religion
+- REST 225 Global Liberation Theology
+- SOCW 395 Social Work with Diverse Populations
+
+# LIBERAL STUDIES
+- PHIL 103 World Views and Values 3 cr
+- INTD 105 Perspectives on Education
+- INTD 209 Perspectives on the Humanities 3 cr
+- INTD 212 Perspectives on Social Institutions 3 cr
+- INTD 213 Perspectives on Science and History 3 cr
+- INTD 477 Capping Experience 3 cr
+
+# MATHEMATICS
+- MATH 241 Calculus I 4 cr
+- MATH 242 Calculus II 4 cr
+- MATH 343 Calculus III 4 cr
+- MATH 210 Linear Algebra 3 cr
+- MATH 310 Introduction to Mathematical Reasoning 3 cr
+- MATH 330 Probability and Statistics 3 cr
+- MATH 410 Abstract Algebra I 3 cr
+- MATH 420 Mathematical Analysis I 3 cr
+- MATH 477 Capping Course 3 cr
+- MATH 321 Differential Equations
+- MATH 331 Applied Statistics
+- MATH 393 Special Topics in Mathematics I
+- MATH 394 Special Topics in Mathematics II
+- MATH 411 Abstract Algebra II
+- MATH 412 Computational Linear Algebra
+- MATH 421 Mathematical Analysis II
+- MATH 422 Applied Mathematics
+- MATH 423 Applied Mathematics II
+- MATH 424 Complex Analysis
+- MATH 430 Operations Research
+- MATH 440 Numerical Analysis
+- MATH 441 Combinatorics
+- MATH 450 Fundamental Concepts of Geometry
+- MATH 451 Elementary Topology
+- MATH 452 Foundations of Mathematics
+- CMPT 120 Introduction to Programming 4 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+
+# MEDICAL TECHNOLOGY
+- MEDT 260 Methods in Medical Technology 4 cr
+- MEDT 301 Clinical Microbiology I 4 cr
+- MEDT 305 Clinical Chemistry I 4 cr
+- MEDT 315 Hematology I 4 cr
+- MEDT 340 Clinical Immunology/Immunohematology I 4 cr
+- MEDT 345 Clinical Microscopy I 1 cr
+- MEDT 350 Clinical Foundations in Medical Laboratory Sciences 1 cr
+- MEDT 401 Clinical Microbiology II 4 cr
+- MEDT 405 Clinical Chemistry II 4 cr
+- MEDT 410 Hematology II 4 cr
+- MEDT 440 Clinical Immunology/Immunohematology II 4 cr
+- MEDT 445 Clinical Microscopy II 1 cr
+- MEDT 477 Topics in Medical Technology (Capping Course) 3 cr
+- BIOL 130 General Biology I 4 cr
+- BIOL 131 General Biology II 4 cr
+- BIOL 312 Microbiology 4 cr
+- BIOL 315 Immunology 3 cr
+- BIOL 421 Parasitology 4 cr
+- CHEM 131 General Chemistry I 4 cr
+- CHEM 132 General Chemistry II 4 cr
+- CHEM 201 Intro to Organic Chemistry 3 cr
+- CHEM 211 Organic Chemistry I 3 cr
+- CHEM 212 Organic Chemistry II 3 cr
+- MATH 130 Introductory Statistics I 3 cr
+- CMPT 103 Technology for the 21st Century 3 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+- BIOL 201 Human Anatomy and Physiology I 4 cr
+- BIOL 202 Human Anatomy and Physiology II 4 cr
+- BIOL 325 Histology 4 cr
+- BIOL 450 Biotechnology 4 cr
+- BIOL 320 Genetics 4 cr
+- BIOL 340 Comparative Anatomy 4 cr
+- BIOL 430 Developmental Biology 4 cr
+- BIOL 440 Vertebrate Physiology 4 cr
+- CHEM 355 Analytical Chemistry 4 cr
+- CHEM 420 Biochemistry I 3 cr
+- CHEM 421 Biochemistry II 3 cr
+- MATH 241 Calculus I 4 cr
+- MATH 242 Calculus II 4 cr
+- MATH 343 Calculus III 4 cr
+- PHYS 201 College Physics I 3 cr
+- PHYS 202 College Physics II 3 cr
+- PHYS 213 Physics I Lab 1 cr
+- PHYS 214 Physics II Lab 1 cr
+
+# PHILOSOPHY
+- PHIL 101 Philosophical Perspectives
+- PHIL 203 Introduction to Logic
+- PHIL 310 Symbolic Logic
+- PHIL 200 Ethics 3 cr
+- PHIL 213 Foundations of American Social Thought
+- PHIL 240 Pragmatism
+- PHIL 242 Existentialism
+- PHIL 210 Ancient Philosophy
+- PHIL 321 Medieval Philosophy
+- PHIL 211 Modern Philosophy
+- PHIL 323 19th Century Philosophy
+- PHIL 324 Contemporary Analytic Philosophy
+- PHIL 325 Contemporary Continental Philosophy
+- PHIL 340 Marx and Marxism
+- PHIL 392, 393, 394 Special Topics in History of Philosophy
+- PHIL 233 Philosophy of Education
+- PHIL 235 Philosophy and Technology
+- PHIL 237 Aesthetics
+- PHIL 301 Environmental Ethics
+- PHIL 331 Philosophy of Religion
+- PHIL 332 Philosophy of History
+- PHIL 333 Philosophy and Film
+- PHIL 335 Metaphysics: The Nature of Reality
+- PHIL 336 Epistemology: The Theory of Knowledge
+- PHIL 234 Social & Political Philosophy
+- PHIL 345 Philosophy of Mind
+- PHIL 392, 393, 394 Special Topics in Philosophical Genres
+- PHIL 477 Capping 3 cr
+- CMPT 103 Technology for the 21st Century 3 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+
+# POLITICAL SCIENCE
+- POSC 110 American National Government 3 cr
+- POSC 111 Intro Comparative Politics 3 cr
+- POSC 112 Intro Political Theory 3 cr
+- POSC 113 International Relations 3 cr
+- POSC 235 Scope & Methods for Political Analysis 4 cr
+- POSC 218 American Political Theory
+- POSC 232 Classical Political Thought
+- POSC 233 Modern Political Thought
+- POSC 213 Politics of Human Rights
+- POSC 236 Politics of Developing Areas
+- POSC 251 European Politics
+- POSC 252 Comparative Politics of Eastern Europe/Russia
+- POSC 271 Nationalism and Communism in China and Taiwan
+- POSC 280 Model United Nations
+- POSC 290 International Law and Organization
+- POSC 325 International Political Economy
+- POSC 202 Environmental Politics & Policy
+- POSC 210 US Constitutional Law
+- POSC 211 American State & Local Politics
+- POSC 212 Citizens and Political Organizations
+- POSC 214 Gender & the Law
+- POSC 240 Introduction to Public Policy
+- POSC 289 Public Opinion & Politics
+- POSC 300 US Constitutional Law: Civil Rights & Liberties
+- POSC 302 Political Social Movements
+- POSC 304 Public Administration
+- POSC 312 History of the American Presidency
+- POSC 322 Policy Implementation
+- POSC 338 Political Communication & Politics
+- POSC 342 Survey Research & Data Analysis
+- POSC 360 Congress Today
+- POSC 303 Politics of Prejudice
+- POSC 310 Race & Political Thought
+- POSC 320 Feminist Political Thought
+- POSC 321 Contemporary Political Theory
+- POSC 340 Marx and Marxism
+- POSC 325 International Political Economy
+- POSC 350 Latin American Politics
+- POSC 351 African Politics
+- POSC 355 Comparative Politics of the Middle East
+- POSC 477 Capping: Law & Morality 3 cr
+- CMPT 103 Technology for 21st Century 3cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+
+# PSYCHOLOGY
+- PSYC 101 Intro to Psychology 3 cr
+- PSYC 350 Psyc Research Methodology AND Lab I 4 cr
+- PSYC 351 Psyc Research Methodology AND Lab II 4 cr
+- PSYC 478 Capping Course 3 cr
+- CMPT 103 Technology for the 21st Century 3 cr
+- MATH 130 Intro to Statistics 3 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+
+# PUBLIC ADMINISTRATION CONCENTRATION
+- POSC 304 Public Administration 3 cr
+- ECON 104 Principles of Macroecon 3 cr
+- ECON 103 Principles of Microecon 3 cr
+- CMPT 103 Technology for the 21st Century 3 cr
+- MATH 130 Intro to Statistics I 3 cr
+- ECON 421 Public Finance 3 cr
+- ACCT 451 Govt and Fiscal Control 3 cr
+- BUS 100 Intro to Bus and Management 3 cr
+- POSC 240 Intro to Public Policy 3 cr
+- POSC 322 Policy Implementation 3 cr
+- POSC 110 American Natl Govt 3 cr
+- POSC 211 American State & Local Politics 3 cr
+- POSC 240 Intro to Public Policy 3 cr
+- POSC 322 Policy Implementation 3 cr
+
+# PUBLIC OPINION CONCENTRATION
+- MATH 130 Intro to Statistics I 3 cr
+- POSC 110 American Nat’l Govt 3 cr
+- POSC 211 American State & Local Politics 3 cr
+- POSC 212 Political Parties and Pressure Groups 3 cr
+- POSC 338 Political Communication and Politics 3 cr
+- POSC 289 Public Opinion and Politics 3 cr
+- POSC 342 Survey Res and Political Data Analysis 3 cr
+- POSC 235 Scope and Methods of Political Analysis 4 cr
+
+# PUBLIC PRAXIS MINOR
+- SOC 220 Sociology of Religion
+- SOC 336 Social Inequality
+- SOC 341 Social Change
+- COM 203 Interpersonal Communication
+- ENG 373 Literature of the Holocaust
+- INTD 212 Self, Society, and Institution
+- PHIL 242 Philosophy and Human Experience
+- PSYC 220 Social Psychology
+- PSYC 222 Community Psychology
+- REST 208 Judeo-Christian Scriptures
+- REST 330 Religion in Contemporary Life
+- REST 335 Marriage and Family
+
+# SOCIOLOGY AND SOCIAL WORK
+- SOC 101 Intro to Sociology 3 cr
+- SOC 336 Social Inequality 3 cr
+- SOC 341 Social Change 3 cr
+- SOC 440 Social Theory 3 cr
+- SOC 480 Social Research Methods 3 cr
+- ALL of the following courses in Social Work:
+- SOCW 230 Intro to Social Work 3 cr
+- SOCW 330 Social Service: Theory and Practice 3 cr
+- SOCW 344 Social Welfare: Policies and Analysis 3 cr
+- SOCW 345 Human Behavior in the Social Environment 3 cr
+- SOCW 383 Social Work Methods I 3 cr
+- SOCW 382 Junior Field Education 1 cr
+- SOCW 395 Social Work with Diverse Populations 3 cr
+- SOCW Required Social Work Elective 3 cr
+- SOCW 475 Social Work Methods II 3 cr
+- SOCW 478 Senior Integrative Seminar II/Capping 3 cr
+- SOCW 482 Practicum in Social Work I 4 cr
+- SOCW 483 Practicum in Social Work II 4 cr
+- PSYC 101 Introduction to Psychology 3 cr
+- ECON 150 Economics of Social Issues 3 cr
+- POSC 110 American National Government 3 cr
+- BIOL 101 Topics in Biology 3 cr
+- BIOL 237 Human Biology 3 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+- SOC 101 Introduction to Sociology 3 cr
+- SOCW 230 Introduction to Social Work 3 cr
+
+# SPANISH
+- SPAN 250 Cultures of Spain 3 cr
+- SPAN 260 Cultures of Latin America 3 cr
+- SPAN 270 Cultures of Hispanics in the U.S. 3 cr
+- SPAN 315 The Experience of Hispanic Literature 3 cr
+- SPAN 477 Capping Course 3 cr
+- SPAN 210 Spanish for Heritage Speakers I 3 cr
+- SPAN 211 Spanish for Heritage Speakers II 3 cr
+- SPAN 312 Spanish for Heritage Speakers III 3 cr
+- SPAN 250 Cultures of Spain 3 cr
+- SPAN 260 Cultures of Latin America 3 cr
+- SPAN 270 Cultures of Hispanics in the U.S. 3 cr
+- SPAN 315 The Experience of Hispanic Literature 3 cr
+- SPAN 477 Capping Course 3 cr
+- SPAN 101-102 Elementary Spanish I-II
+- SPAN 105-106 Intermediate Spanish I-II
+- SPAN 201 Spanish: Language and Communication Skills
+- SPAN 202 Spanish: Reading and Writing About Hispanic Culture
+- SPAN 281-282 Conversation and Culture I-II
+- SPAN 360-361 Composition and Conversation I-II
+- SPAN 250 Cultures of Spain 3 cr
+- SPAN 260 Cultures of Latin America 3 cr
+- SPAN 270 Cultures of Hispanics of the U.S. 3 cr
+- SPAN 315 The Experience of Hispanic Literature 3 cr
+- SPAN 477 Capping Course 3 cr
+- FYS 101 First Year Seminar 4 cr
+- ENG 120 Writing for College 3 cr
+- PHIL 101 Philosophical Perspectives 3 cr
+- SPAN 270 Cultures of Hispanics in the United States 3 cr
+- SPAN 154 Civilization: Hispanics in the United States 3 cr
