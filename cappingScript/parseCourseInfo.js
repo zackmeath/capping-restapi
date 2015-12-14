@@ -10,48 +10,14 @@ var connectionObject = {
     host: '10.10.1.37'
 };
 
+var successNum = 0;
 var dutchessID = 1;
-
-pg.connect(connectionObject, function(err, client, done) {
-    if (err){
-        console.log('Problem with pg connection: ', err);
-        client.end();
-        done();
-    } else {
-        var deleteQueryString = 'DELETE FROM MajorRequirement;' +
-            ' DELETE FROM Equivalent;' +
-            ' DELETE FROM CoursesTaken;' +
-            ' DELETE FROM StudentMajor;' +
-            ' DELETE FROM Student;' +
-            ' DELETE FROM Requirement;' +
-            ' DELETE FROM Major;' +
-            ' DELETE FROM Course;';
-        var deleteQuery = client.query(deleteQueryString, []);
-        deleteQuery.on('end', function(){
-            queryString = 'INSERT INTO School(ScName) VALUES($1)';
-            query = client.query(queryString, ['Dutchess Community College']);
-            query.on('end', function(){
-                queryString = 'SELECT * FROM School WHERE School.ScName = ($1)';
-                query2 = client.query(queryString, ['Dutchess Community College']);
-                query2.on('row', function(row){
-                    dutchessID = parseInt(row.ScID);
-                });
-                query2.on('end', function(){
-                    client.end();
-                    done();
-                });
-            });
-        });
-    }
-});
 
 function parseDutchessEquivalencies() {
     var data = fs.readFileSync('DCC_Courses.txt', 'utf8');
     var lines = data.split('\n');
     for (var i = 0; i < lines.length; i++){
-        console.log(i);
         var line = lines[i];
-        console.log(line);
         var lineObject = line.split(',');
         if (lineObject.length < 6){
             continue;
@@ -66,7 +32,7 @@ function parseDutchessEquivalencies() {
         };
         var dutchessCourse = {
             courseSubject: lineObject[0],
-            courseNumber:  lineObject[1],
+            courseNumber:  lineObject[1].substring(0, 3),
             courseTitle:   lineObject[2],
             isAccepted:    false
         };
@@ -80,7 +46,6 @@ function parseMaristCatalog() {
     var data = fs.readFileSync('catalog-test.md', 'utf8');
     var lines = data.split('\n');
     for (var i = 0; i < lines.length; i++){
-        console.log(i);
         var line = lines[i].trim();
         if (line.substring(0, 1) === '#'){
             var majorTitle = line.substring(2);
@@ -88,7 +53,7 @@ function parseMaristCatalog() {
             currentMajor = majorTitle;
             maristRequirements[currentMajor] = [];
         } else if (line.substring(0, 1) === '-'){
-            var courseString = line.substring(1);
+            var courseString = line.substring(2);
             var courseWords = courseString.split(' ');
 
             var abbrSubject = courseWords[0];
@@ -98,6 +63,15 @@ function parseMaristCatalog() {
             if (isNaN(parseInt(creditsNum))){
                 len += 2;
                 creditsNum = '3';
+            } else {
+                for (var x = 0; x < creditsNum.length; x++){
+                    var character = creditsNum.substring(x, x+1);
+                    if (isNaN(parseInt(character))){
+                        len += 2;
+                        creditsNum = '3';
+                        break;
+                    }
+                }
             }
             var courseTitleString = '';
             for (var j = 2; j < len; j++){
@@ -162,6 +136,7 @@ function removeDuplicatesFromArray(arr){
             noDups.push(arr[i]);
         }
     }
+    return noDups;
 }
 
 var dutchessCourses = [];
@@ -175,10 +150,15 @@ parseDutchessEquivalencies();
 console.log('Done parsing dutchess equivalencies...');
 parseMaristCatalog();
 console.log('Done parsing marist catalog...');
+
 dutchessCourses = removeDuplicatesFromArray(dutchessCourses);
 equivalencies = removeDuplicatesFromArray(equivalencies);
 maristMajors = removeDuplicatesFromArray(maristMajors);
 allRequirements = removeDuplicatesFromArray(allRequirements);
+var MRkeys = Object.keys(maristRequirements);
+for(var k = 0; k < MRkeys.length; k++){
+    maristRequirements[MRkeys[k]] = removeDuplicatesFromArray(maristRequirements[MRkeys[k]]);
+}
 console.log('Done removing duplicates...');
 
 // Establish connection to the DB
@@ -195,7 +175,7 @@ pg.connect(connectionObject, function(err, client, done) {
         console.log('Inserting dutchess courses into the database...');
         cpsForEach(dutchessCourses, function(course, callback){
             var queryString = 'INSERT INTO Course(ScID, subject, courseNum, courseTitle, isAccepted) VALUES($1, $2, $3, $4, $5)';
-            var query = client.query(queryString, [dutchessID, dutchessCourses.courseSubject, dutchessCourses.courseNumber, dutchessCourses.courseTitle, false]);
+            var query = client.query(queryString, [dutchessID, course.courseSubject, course.courseNumber, course.courseTitle, false]);
             query.on('end', function(){
                 callback();
             });
@@ -211,17 +191,18 @@ pg.connect(connectionObject, function(err, client, done) {
             }, function(){
                 // Insert all of the requirements (check to make sure it isnt there yet)
                 console.log('Inserting requirements into the database...');
-                cpsForEach(requirements, function(req, callback3){
+                cpsForEach(allRequirements, function(req, callback3){
                     var queryString = 'INSERT INTO Requirement(subject, courseNum, creditValue, courseTitle) VALUES($1, $2, $3, $4)';
                     var query = client.query(queryString, [req.subject, req.num, req.credits, req.title]);
+                    // TODO Check here
                     query.on('end', function(){
                         callback3();
                     });
                 }, function(){
-                    // Insert all majorRequirements (look up each in the DB to make sure we have the correct id)
-                    console.log('Inserting majorRequirements into the database...');
-                    cpsForEach(Object.keys(majorRequirements), function(major, callback4){
-                        cpsForEach(majorRequirements[major], function(mreq, callback5){
+                    // Insert all maristRequirements (look up each in the DB to make sure we have the correct id)
+                    console.log('Inserting maristRequirements into the database...');
+                    cpsForEach(Object.keys(maristRequirements), function(major, callback4){
+                        cpsForEach(maristRequirements[major], function(mreq, callback5){
                             var majorID;
                             var queryString1 = 'SELECT * FROM Major WHERE Major.title = ($1)';
                             var query1 = client.query(queryString1, [major]);
@@ -231,16 +212,18 @@ pg.connect(connectionObject, function(err, client, done) {
                             query1.on('end', function(){
                                 var requirementID;
                                 var queryString2 = 'SELECT * FROM Requirement WHERE' + 
-                                    ' Requirement.subject = ($1)' + 
-                                    ' Requirement.courseNum = ($2)' + 
-                                    ' Requirement.creditValue = ($3)' + 
+                                    ' Requirement.subject = ($1) AND' + 
+                                    ' Requirement.courseNum = ($2) AND' + 
+                                    ' Requirement.creditValue = ($3) AND' + 
                                     ' Requirement.courseTitle = ($4)'; 
-                                var query2 = client.query(queryString, [mreq.subject, mreq.num, mreq.credits, mreq.title]);
+                                var query2 = client.query(queryString2, [mreq.subject, mreq.num, mreq.credits, mreq.title]);
                                 query2.on('row', function(row){
                                     requirementID = row.rid;
                                 });
                                 query2.on('end', function(){
-                                    var queryString3 = 'INSERT INTO MajorRequirement(MID, RID) VALUES($1, $2)';
+                                    var queryString3 = 'INSERT INTO MajorRequirement(MID, RID) SELECT $1, $2 ' +
+                                    'WHERE NOT EXISTS(SELECT * FROM MajorRequirement WHERE ' +
+                                    'MajorRequirement.MID = ($1) AND MajorRequirement.RID = ($2))';
                                     var query3 = client.query(queryString3, [majorID, requirementID]);
                                     query3.on('end', function(){
                                         callback5();
@@ -250,12 +233,12 @@ pg.connect(connectionObject, function(err, client, done) {
                         }, callback4);
                     }, function(){
                         // Insert each equivalency (check to get the id)
-                        console.log('Inserting all of the course equivalencies into the database...(' + equivalencies.length + ' total)');
+                        console.log('Inserting all of the course equivalencies into the database (' + equivalencies.length + ' total)...');
                         cpsForEach(equivalencies, function(eq, callback6){
                             var CID;
                             var queryString1 = 'SELECT * FROM Course WHERE' +
-                                ' Course.subject = ($1)' + 
-                                ' Course.courseNum = ($2)' + 
+                                ' Course.subject = ($1) AND' + 
+                                ' Course.courseNum = ($2) AND' + 
                                 ' Course.courseTitle = ($3)';
                             var query1 = client.query(queryString1, [eq.dutchessCourseSubject, eq.dutchessCourseNumber, eq.dutchessCourseTitle]);
                             query1.on('row', function(row){
@@ -264,22 +247,37 @@ pg.connect(connectionObject, function(err, client, done) {
                             query1.on('end', function(){
                                 var RID;
                                 var queryString2 = 'SELECT * FROM Requirement WHERE' +
-                                    ' Requirement.subject = ($1)' + 
-                                    ' Requirement.courseNum = ($2)' + 
-                                    ' Requirement.courseTitle = ($3)';
-                                var query2 = client.query(queryString2, [eq.maristCourseSubject, eq.maristCourseNumber, eq.maristCourseTitle]);
+                                    ' Requirement.subject = ($1) AND' + 
+                                    ' Requirement.courseNum = ($2)';
+                                    // ' Requirement.courseNum = ($2) AND' + 
+                                    // ' Requirement.courseTitle = ($3) AND' +  
+                                // var query2 = client.query(queryString2, [eq.maristCourseSubject, eq.maristCourseNumber, eq.maristCourseTitle]);
+                                // for(var z = 0; z < allRequirements.length; z++){
+                                //     var require = allRequirements[z];
+                                //     if(require.subject === eq.maristCourseSubject && require.num === eq.maristCourseNumber){
+                                //         console.log('Should be a thing: ' + JSON.stringify(require) + ', ' + JSON.stringify(eq));
+                                //     }
+                                // }
+                                var query2 = client.query(queryString2, [eq.maristCourseSubject, eq.maristCourseNumber]);
                                 query2.on('row', function(row){
                                     RID = row.rid;
                                 });
                                 query2.on('end', function(){
-                                    var insertQueryString = 'INSERT INTO Equivalent(CID, RID) VALUES($1, $2)';
-                                    var insertQuery = client.query(insertQueryString, [CID, RID]);
-                                    insertQuery.on('end', function(){
-                                        callback6();
-                                    });
+                                    if (CID === undefined || RID === undefined || CID === null || RID === null){
+                                        return callback6();
+                                    } else {
+                                        successNum++;
+                                        var insertQueryString = 'INSERT INTO Equivalent(CID, RID) SELECT $1, $2 WHERE NOT EXISTS(SELECT * FROM Equivalent' + 
+                                        ' WHERE Equivalent.CID = ($1) AND Equivalent.RID = ($2))';
+                                        var insertQuery = client.query(insertQueryString, [CID, RID]);
+                                        insertQuery.on('end', function(){
+                                            callback6();
+                                        });
+                                    }
                                 });
                             });
                         }, function(){
+                            console.log('Success count: ' + successNum);
                             console.log('Done with database interaction, disconnecting...');
                             client.end();
                             done();

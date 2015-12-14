@@ -383,9 +383,13 @@ router.post('/api/login/', function(req, res) {
 
         var results = [];
         var returnid;
+        var returnFirstName;
+        var returnLastName;
 
         query.on('row', function(row){
             returnid = row.uid;
+            returnFirstName = row.firstname;
+            returnLastName = row.lastname;
             results.push(row.pass === password);
         });
 
@@ -398,7 +402,7 @@ router.post('/api/login/', function(req, res) {
             if(results.length === 1){
                 var bool = results[0];
                 if(bool){
-                    return res.json({success: true, msg: '', id: returnid});
+                    return res.json({success: true, msg: '', firstName: returnFirstName, lastName: returnLastName, id: returnid});
                 }
                 return res.json({success: false, msg: 'Password did not match'});
             }
